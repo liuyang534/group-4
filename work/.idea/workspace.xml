@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea01e5ba-c9ee-48c8-af55-dff4e5d7a492" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KziSKIT41jn0xiJfIKF14BJWOz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jar/jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.1575" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\group 4\work\src" />
+      <recent name="D:\study\group 4\work\src\work2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="GetExcelInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work1.GetExcelInfo" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work1.ReadExcel" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work2.Test" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work2.test1" />
+      <module name="work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.GetExcelInfo" />
+        <item itemvalue="Application.ReadExcel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea01e5ba-c9ee-48c8-af55-dff4e5d7a492" name="Default Changelist" comment="" />
+      <created>1674983810614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674983810614</updated>
+      <workItem from="1674983813220" duration="1545000" />
+      <workItem from="1675041181585" duration="3235000" />
+      <workItem from="1675131705768" duration="8678000" />
+      <workItem from="1675213989679" duration="6733000" />
+      <workItem from="1675256910855" duration="636000" />
+      <workItem from="1675330196205" duration="594000" />
+      <workItem from="1675386470288" duration="3043000" />
+      <workItem from="1675496812721" duration="597000" />
+      <workItem from="1675575807551" duration="1206000" />
+      <workItem from="1675671126415" duration="2423000" />
+      <workItem from="1675732193198" duration="10352000" />
+      <workItem from="1675755961958" duration="3034000" />
+      <workItem from="1675819703186" duration="9493000" />
+      <workItem from="1675905306583" duration="13855000" />
+      <workItem from="1675926663446" duration="13000" />
+      <workItem from="1675926997055" duration="53000" />
+      <workItem from="1675927117287" duration="273000" />
+      <workItem from="1676257293686" duration="3312000" />
+      <workItem from="1676275654067" duration="2556000" />
+      <workItem from="1676337183251" duration="82000" />
+      <workItem from="1676337273426" duration="8890000" />
+      <workItem from="1676385604097" duration="885000" />
+      <workItem from="1676423166166" duration="4998000" />
+      <workItem from="1676510542512" duration="5377000" />
+      <workItem from="1676597031101" duration="4973000" />
+      <workItem from="1676855130307" duration="9018000" />
+      <workItem from="1676942677872" duration="7718000" />
+      <workItem from="1677027782115" duration="16150000" />
+      <workItem from="1677114696406" duration="3469000" />
+      <workItem from="1677118216303" duration="11155000" />
+      <workItem from="1677201863865" duration="4919000" />
+      <workItem from="1677460533362" duration="4846000" />
+      <workItem from="1677547179062" duration="4358000" />
+      <workItem from="1677633534584" duration="8018000" />
+      <workItem from="1677719859938" duration="7616000" />
+      <workItem from="1677806138548" duration="3892000" />
+      <workItem from="1678064988386" duration="3253000" />
+      <workItem from="1678151897211" duration="1806000" />
+      <workItem from="1678238224891" duration="5958000" />
+      <workItem from="1678324579038" duration="4574000" />
+      <workItem from="1678670365908" duration="1787000" />
+      <workItem from="1678756655047" duration="3335000" />
+      <workItem from="1678842819725" duration="4447000" />
+      <workItem from="1678929463876" duration="5132000" />
+      <workItem from="1679015483104" duration="3205000" />
+      <workItem from="1679274099385" duration="9482000" />
+      <workItem from="1679361021724" duration="16023000" />
+      <workItem from="1679463435903" duration="6721000" />
+      <workItem from="1679534033000" duration="7713000" />
+      <workItem from="1679620114452" duration="13576000" />
+      <workItem from="1679879898293" duration="12742000" />
+      <workItem from="1679965983663" duration="391000" />
+      <workItem from="1680000013391" duration="787000" />
+      <workItem from="1680052402293" duration="64000" />
+      <workItem from="1680052911069" duration="15955000" />
+      <workItem from="1680138099132" duration="15172000" />
+      <workItem from="1680224720777" duration="5490000" />
+      <workItem from="1680484243484" duration="12467000" />
+      <workItem from="1680570623190" duration="13522000" />
+      <workItem from="1680591691899" duration="1495000" />
+      <workItem from="1680829495378" duration="3603000" />
+      <workItem from="1681089445319" duration="3622000" />
+      <workItem from="1681262953307" duration="1783000" />
+      <workItem from="1681349227985" duration="1245000" />
+      <workItem from="1681436413631" duration="3700000" />
+      <workItem from="1681693632014" duration="4999000" />
+      <workItem from="1681732262643" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

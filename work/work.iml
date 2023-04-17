@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jxl" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.0.8-bin" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../jar/poi-bin-5.2.3" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../jar/poi-bin-5.2.3" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/osgi/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/osgi/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/main/ruby/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-examples/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/poi-ant-contrib/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-excelant/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-integration/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-ooxml-lite-agent/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-ooxml/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi-scratchpad/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../jar/poi-src-5.2.3-20220909 (1).zip!/poi-src-5.2.3-20220909-5.2.3/poi/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../jar/commons-io-2.11.0" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../jar/commons-io-2.11.0/docs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../jar/commons-io-2.11.0" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../jar/commons-io-2.11.0" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../jar/commons-io-2.11.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../jar/apache-log4j-2.20.0-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../jar/apache-log4j-2.20.0-bin" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../jar/apache-log4j-2.20.0-bin" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../jar/apache-log4j-2.20.0-bin" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jar" level="project" />
+  </component>
+</module>
